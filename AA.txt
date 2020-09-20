@@ -1,0 +1,4 @@
+DB : AASQL
+port : 1432
+Sql Configuration Manager
+Port: 81
